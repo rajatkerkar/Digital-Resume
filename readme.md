@@ -2,11 +2,11 @@
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
 
-View live demo here using github pages: [Live Demo](https://divanov11.github.io/Digital-Resume/)
+##View live demo here using github pages: [Live Demo](https://divanov11.github.io/Digital-Resume/)
 
 ## Preview
 
-<img src="assets\images\demo.gif">
+##<img src="assets\images\demo.gif">
 
 ## Deploy your own digital resume
 
